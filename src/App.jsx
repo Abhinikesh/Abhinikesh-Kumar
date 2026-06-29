@@ -6,7 +6,7 @@ import About from "./sections/About";
 import Skills from "./sections/Skills";
 import Project from "./sections/Project";
 import Experience from "./sections/Experience";
-import Testimonials from "./sections/Testimonials";
+// import Testimonials from "./sections/Testimonials";
 import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
 
