@@ -2,10 +2,10 @@
 import React from "react";
 
 // testimonials images
-import m1 from "../assets/m1.png"; // male pic
-import m2 from "../assets/m2.png"; // male pic
-import w1 from "../assets/w1.png"; // female pic
-import w2 from "../assets/w2.png"; // female pic
+import m1 from "../assets/m1.PNG"; // male pic
+import m2 from "../assets/m2.PNG"; // male pic
+import w1 from "../assets/w1.PNG"; // female pic
+import w2 from "../assets/w2.PNG"; // female pic
 
 // Framer Motion import
 import { motion } from "framer-motion";
